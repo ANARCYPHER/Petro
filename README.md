@@ -62,3 +62,6 @@ Year 25-30 (blocks 2145601-2671200): 12.864%
 Year 35-   (blocks 2671201-       ): 15.728%
  
 All fees are destructive, forever.
+
+developed by 
+Caesar Versatti
