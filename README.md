@@ -1,6 +1,19 @@
-The PetroDollar (p$)
+The Petro (₽)
 ====================
 Big Oil Comes To Crypto
+
+
+
+
+<img width="332" alt="Petro_(cryptocurrency)_logo" src="https://user-images.githubusercontent.com/73909878/124326758-d818f600-db3b-11eb-9832-7c507bea5630.png">
+
+
+
+https://registro.blockchain.gob.ve/web/
+
+WhitePaper 
+
+https://web.archive.org/web/20180412202954/http://petro.gob.ve/pdf/en/Whitepaper_Petro_en.pdf
  
 ##### Design
 This coin has been designed to have a 1:1000 relationship to barrels of oil still existing in the ground.  
