@@ -65,3 +65,5 @@ All fees are destructive, forever.
 
 developed by 
 Caesar Versatti
+contact;
+skull322@protonmail.com
